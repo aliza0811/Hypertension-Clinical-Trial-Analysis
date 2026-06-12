@@ -63,7 +63,7 @@ Checked completeness of cleaned dataset before export.
 
 ## Output Files
 The cleaned dataset was exported as:
-Hypertension_India_cleaned.xlsx
+Hypertension_India_cleaned.xlsx &
 Hypertension_India_final.xlsx
 
 ## Future Improvements
