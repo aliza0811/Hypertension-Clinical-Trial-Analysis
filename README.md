@@ -44,10 +44,16 @@ A count plot was created to examine the distribution of clinical trial phases.
 
 ### 3. Sponsor Analysis
 Sponsor names were standardized and top 20 sponsors were identified.
+<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/637ce0da-8545-4d98-a9ff-babf9a52fcab" />
+
 ### 4. Enrollment Distribution
 Enrollment was analyzed across study types using logarithmic scale.
+<img width="849" height="549" alt="image" src="https://github.com/user-attachments/assets/b502bb25-24a6-4b8b-a791-6baed394ae0d" />
+
 ### 5. Missing Value Analysis
 Checked completeness of cleaned dataset before export.
+
+
 
 ## Key Insights
 1. Most studies fall under Not Specified phase
