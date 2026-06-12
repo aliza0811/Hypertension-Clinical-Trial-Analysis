@@ -40,6 +40,8 @@ Study Design → Not Reported
 ## Exploratory Data Analysis Performed
 ### 1. Trial Phase Analysis
 A count plot was created to examine the distribution of clinical trial phases.
+<img width="842" height="622" alt="image" src="https://github.com/user-attachments/assets/3f2d89ee-d35e-4931-a7cd-e69ad7fe0145" />
+
 ### 3. Sponsor Analysis
 Sponsor names were standardized and top 20 sponsors were identified.
 ### 4. Enrollment Distribution
