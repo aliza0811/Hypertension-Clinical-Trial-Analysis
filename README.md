@@ -1,6 +1,6 @@
 # Analysis of Hypertension Clinical Trials in India
-This project analyses hypertension related clinical trial data conducted in India to identify trends in trial activity, study phases, sponsor participation, study types, enrollment distribution and missing data patterns. 
-This project demonstrates practical data analysis workflow from raw clinical trial data to exploratory insights using Python.
+This project analyzes hypertension related clinical trial data conducted in India to identify trends in trial activity, study phases, sponsor participation, study types, enrollment distribution and missing data patterns. 
+It demonstrates workflow from raw clinical trial data to exploratory insights using Python.
 ## Objectives
 The main objective of this project is to:
 1. Clean raw clinical trial data
